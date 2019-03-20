@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HistoryTips</string>
+    <string name="search">Search</string>
+    <string name="clear_history">Clear History</string>
+</resources>
